@@ -11,7 +11,7 @@
 # Generated files
 bin/
 gen/
-captures/
+/captures/
 
 # Gradle files
 .gradle/
@@ -28,7 +28,7 @@ proguard/
 *.log
 
 # IntelliJ Files
-.idea/
+/.idea/
 
 # System Files
 .DS_Store
