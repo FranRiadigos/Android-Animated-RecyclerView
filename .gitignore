@@ -29,6 +29,8 @@ proguard/
 
 # IntelliJ Files
 /.idea/
+.idea
+*.iml
 
 # System Files
 .DS_Store
