@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AvatarStyle">
+        <item name="android:layout_width">@dimen/flat_avatar_size</item>
+        <item name="android:layout_height">@dimen/flat_avatar_size</item>
+        <item name="android:background">@drawable/avatar_background</item>
+        <item name="android:textSize">@dimen/default_text_size</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <color name="accent">#9575CD</color>
+    <color name="accent_bright">#D1C4E9</color>
+
+</resources>
