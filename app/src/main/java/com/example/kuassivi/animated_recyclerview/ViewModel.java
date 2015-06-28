@@ -1,4 +1,4 @@
-package com.example.kikogonzalez.material_linearrecyclerview;
+package com.example.kuassivi.animated_recyclerview;
 
 public class ViewModel {
     private int number;

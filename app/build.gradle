@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "com.example.kikogonzalez.material_linearrecyclerview"
+        applicationId "com.example.kuassivi.animated_recyclerview"
         minSdkVersion 15
         targetSdkVersion 22
         versionCode 1

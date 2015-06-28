@@ -1,4 +1,4 @@
-package com.example.kikogonzalez.material_linearrecyclerview;
+package com.example.kuassivi.animated_recyclerview;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
